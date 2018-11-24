@@ -50,9 +50,9 @@ Browse complex directory hierarchies with [NERD Tree](https://github.com/scroolo
 * Create alias to easily lauch Jupyter Notebook
 
 ### Procedure
-Insert the [configuration file](https://github.com/ppeyliang/Configuration/blob/master/.zshrc) at the beginning of `~/.zshrc`.
+Open `~/.bash_profile` and copy the setting for Anaconda into `~/.zshrc`.
 
-Replace `...` with a default working directory that you would like Jupyter to open when launched.
+Insert below code into `~/.zshrc` and replace `...` with a default working directory that you would like Jupyter to open when launched.
 ```
 # alias to launch Jupyter Notebook
 alias jp="cd ~/.../ && jupyter notebook"
