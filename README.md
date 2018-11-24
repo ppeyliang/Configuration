@@ -1,9 +1,9 @@
 # Configuration
 This repository consists a list of customized configuration files for Mac OS and some basic command instructions.
 
-[Vim]()
+[Vim](https://github.com/ppeyliang/Configuration#vim)
 
-[Oh My Zsh]()
+[Oh My Zsh](https://github.com/ppeyliang/Configuration#oh-my-zsh)
 
 ## Vim
 This customization is referenced from [here](https://github.com/amix/vimrc).
