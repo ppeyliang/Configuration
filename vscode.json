@@ -1,0 +1,37 @@
+{
+    "python.pythonPath": "C:\\Users\\janice.liang\\AppData\\Local\\Continuum\\anaconda3",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "workbench.colorTheme": "One Dark Pro",
+    "vim.useSystemClipboard": true,
+    "window.zoomLevel": 0,
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[sql]": {
+        "editor.tabSize": 2
+    },
+    "[python]": {
+        "editor.tabSize": 4 
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "gitlens.views.search.enabled": false,
+    "gitlens.views.lineHistory.enabled": false,
+    "gitlens.views.compare.enabled": false,
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "400", // Regular
+    "editor.fontFamily": "Fira Code Retina",
+    "terminal.integrated.inheritEnv": false,
+    "editor.fontSize": 12,
+    "debug.console.fontSize": 12,
+    "markdown.preview.fontSize": 12,
+    "terminal.integrated.fontSize": 11,
+    "mssql.resultsFontSize": 12,
+    "vim.easymotionMarkerFontSize": "12",
+    "editor.rulers": [
+        72
+    ],
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}
